@@ -42,14 +42,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * Click [HERE](https://techshopecom.herokuapp.com) for demo
 * Admin => email: `admin@techshop.com` | password: admin
 * Client => email: `client@techshop.com` | password: client
-
-
-## Author
-
-[**Marwan Ahal**](https://www.soymarwan.com/)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
